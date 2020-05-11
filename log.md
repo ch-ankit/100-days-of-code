@@ -23,3 +23,9 @@
 **Today's Progress**: Didn't do much coding but focused on theory today. Learnt about how child component communicates with parent component. Did a small work on binding "this" and also learnt good and bad practices of binding.
 
 **Thoughts:** The downward data flow in react makes it easier while debugging the code so it was an important lesson today to learn how child can affect the states of parent so that states can be centralized in parent component and downward data flow can be maintained.
+
+### Day 5: May 11th, 2020
+
+**Today's Progress**: Today I learnt about the keys given to iterative components in react to identify them uniquely. Similarly, I built a hangman app whose starter code was provided. It was a test exercise and I completed it in first try.
+
+**Thoughts:** My CSS skill is improving and I do not feel pressured also my React skill is improving. I can now figure out what to choose as props and what to keep in states. Similarly, I now know about the naming conventions of method.
