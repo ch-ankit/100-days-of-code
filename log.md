@@ -29,3 +29,9 @@
 **Today's Progress**: Today I learnt about the keys given to iterative components in react to identify them uniquely. Similarly, I built a hangman app whose starter code was provided. It was a test exercise and I completed it in first try.
 
 **Thoughts:** My CSS skill is improving and I do not feel pressured also my React skill is improving. I can now figure out what to choose as props and what to keep in states. Similarly, I now know about the naming conventions of method.
+
+### Day 5: May 12th, 2020
+
+**Today's Progress**: Made the hagman app more statefull and added some more features making it appealing to the eye. Went through the starter code for Light's out game.
+
+**Thoughts:** Hangman game was not much of a challange but this Light's out game seems tough and needs time. There is lots of designing as well. Need to implement the logic too.
