@@ -35,3 +35,9 @@
 **Today's Progress**: Made the hagman app more statefull and added some more features making it appealing to the eye. Went through the starter code for Light's out game.
 
 **Thoughts:** Hangman game was not much of a challange but this Light's out game seems tough and needs time. There is lots of designing as well. Need to implement the logic too.
+
+### Day 7: May 13th, 2020
+
+**Today's Progress**: Completed the Lights out game along with the logics involved and the designing. Started with React Forms.
+
+**Thoughts:** The Lights out exercise has helped me to develop confidence in both React and JS as whole. The designing was overwhelming at first but slowly I'm getting better.
