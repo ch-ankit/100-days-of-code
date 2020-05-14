@@ -41,3 +41,9 @@
 **Today's Progress**: Completed the Lights out game along with the logics involved and the designing. Started with React Forms.
 
 **Thoughts:** The Lights out exercise has helped me to develop confidence in both React and JS as whole. The designing was overwhelming at first but slowly I'm getting better.
+
+### Day 8: May 14th, 2020
+
+**Today's Progress**: Continued on React forms today and learned a new propety introduced in ES2015 (computed property name) and also dealt with multiple forms and how one event handler can handle multiple on change properties.
+
+**Thoughts:** Helped in understanding how forms work in React. Each time something is changed in form the state of the component will be updated causing it to re-render which displays the value of current state in the input section. Also learned about the computed property name introduced in ES2015
