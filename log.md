@@ -47,3 +47,9 @@
 **Today's Progress**: Continued on React forms today and learned a new propety introduced in ES2015 (computed property name) and also dealt with multiple forms and how one event handler can handle multiple on change properties.
 
 **Thoughts:** Helped in understanding how forms work in React. Each time something is changed in form the state of the component will be updated causing it to re-render which displays the value of current state in the input section. Also learned about the computed property name introduced in ES2015
+
+### Day 9: May 15th, 2020
+
+**Today's Progress**: React forms exercise and learned to use the uuid library. Building a color box app using react forms.
+
+**Thoughts:** Since forms are always stateful in React, there is upward data flow in forms due to which we need to call the function of parent from children form and change the state of the parent.
