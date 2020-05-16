@@ -53,3 +53,9 @@
 **Today's Progress**: React forms exercise and learned to use the uuid library. Building a color box app using react forms.
 
 **Thoughts:** Since forms are always stateful in React, there is upward data flow in forms due to which we need to call the function of parent from children form and change the state of the parent.
+
+### Day 10: May 16th, 2020
+
+**Today's Progress**: Worked on Todo List app which contained features such as add new todo, edit, delete and completed work.
+
+**Thoughts:** Very beneficial and a lot of thinking involved today and helped in developing confidence to a high. Really looking forward for more.
