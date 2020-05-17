@@ -59,3 +59,9 @@
 **Today's Progress**: Worked on Todo List app which contained features such as add new todo, edit, delete and completed work.
 
 **Thoughts:** Very beneficial and a lot of thinking involved today and helped in developing confidence to a high. Really looking forward for more.
+
+### Day 11: May 17th, 2020
+
+**Today's Progress**: Completed the todo list app with styling and started with understanding the Yahtzee-app starter code.
+
+**Thoughts:** The todo List app involved a lot of JS and React logic and was a great practice exercise. The Yahtzee app has a lots of nested components into one another and is a bit complex and the starter code took a lot of time to understand.
