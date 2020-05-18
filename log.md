@@ -65,3 +65,9 @@
 **Today's Progress**: Completed the todo list app with styling and started with understanding the Yahtzee-app starter code.
 
 **Thoughts:** The todo List app involved a lot of JS and React logic and was a great practice exercise. The Yahtzee app has a lots of nested components into one another and is a bit complex and the starter code took a lot of time to understand.
+
+### Day 12: May 18th, 2020
+
+**Today's Progress**: Completed the Yahtzee game app. Added the missing rules, dice animations and on click animations on score table. Added the total scores and disabling the buttons when rolls is finished
+
+**Thoughts:** This application consisted of nested components and the methods needed to be passed two levels below to other components. There was more of JS logic in the application than react. The react part was mostly easy.
