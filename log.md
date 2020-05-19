@@ -71,3 +71,9 @@
 **Today's Progress**: Completed the Yahtzee game app. Added the missing rules, dice animations and on click animations on score table. Added the total scores and disabling the buttons when rolls is finished
 
 **Thoughts:** This application consisted of nested components and the methods needed to be passed two levels below to other components. There was more of JS logic in the application than react. The react part was mostly easy.
+
+### Day 13: May 19th, 2020
+
+**Today's Progress**: Fixed some bugs of the Yahtzee game app and studied about the React Lifecycle methods.
+
+**Thoughts:** The React lifecycle methods are very useful for various purposes such as delaying in setting state, resetting the timers, playing with previous values of states and props of a component etc. Mainly used methods are: mounting, updating and unmounting.
