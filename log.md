@@ -77,3 +77,9 @@
 **Today's Progress**: Fixed some bugs of the Yahtzee game app and studied about the React Lifecycle methods.
 
 **Thoughts:** The React lifecycle methods are very useful for various purposes such as delaying in setting state, resetting the timers, playing with previous values of states and props of a component etc. Mainly used methods are: mounting, updating and unmounting.
+
+### Day 14: May 20th, 2020
+
+**Today's Progress**: Made the deck of cards application which uses axios to fetch data from the api and display the cards.
+
+**Thoughts:** Use of React Lifecycle methods was clear in this project and it enhanced my knowledge regarding the different react lifcycles.
