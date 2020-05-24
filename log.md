@@ -83,3 +83,27 @@
 **Today's Progress**: Made the deck of cards application which uses axios to fetch data from the api and display the cards.
 
 **Thoughts:** Use of React Lifecycle methods was clear in this project and it enhanced my knowledge regarding the different react lifcycles.
+
+### Day 15: May 21th, 2020
+
+**Today's Progress**: Started on Dad's Joke application.
+
+**Thoughts:** There are many cool features in this application which helps to make the app more stateful and dynamic. A great exercise.
+
+### Day 16: May 22th, 2020
+
+**Today's Progress**: Continued the dad's joke app project.
+
+**Thoughts:** Implementing the logics are very fun in this app. There are animations and various new styling features.
+
+### Day 17: May 23th, 2020
+
+**Today's Progress**: Finally completed the dad's joke app.
+
+**Thoughts:** Learnt many new things while doing this project. New styling features were also used. Confidence with states and lifcycle methods has increased.
+
+### Day 18: May 24th, 2020
+
+**Today's Progress**: Finished React Routers theory.
+
+**Thoughts:** React router is used to achieve client side rendering which is mostly used for a single page application. Learned about different components of react router such as NavLink, Link, Switch etc. and the difference between the component and render props.
