@@ -107,3 +107,9 @@
 **Today's Progress**: Finished React Routers theory.
 
 **Thoughts:** React router is used to achieve client side rendering which is mostly used for a single page application. Learned about different components of react router such as NavLink, Link, Switch etc. and the difference between the component and render props.
+
+### Day 19: May 25th, 2020
+
+**Today's Progress**: Built a vending machine app as a part of React router exercise
+
+**Thoughts:** Helped to practice React Routers and introduction of children props of a component and how it can style multiple components with a single stylesheet and its other uses.
