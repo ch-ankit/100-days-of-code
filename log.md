@@ -113,3 +113,9 @@
 **Today's Progress**: Built a vending machine app as a part of React router exercise
 
 **Thoughts:** Helped to practice React Routers and introduction of children props of a component and how it can style multiple components with a single stylesheet and its other uses.
+
+### Day 20: May 26th, 2020
+
+**Today's Progress**: Practiced with React Router Patters.
+
+**Thoughts:** Learned different methods for routing such as passing single or multiple parameters in the url, including search form, redirect component and the difference between redirect component and history.push while routing.
