@@ -119,3 +119,9 @@
 **Today's Progress**: Practiced with React Router Patters.
 
 **Thoughts:** Learned different methods for routing such as passing single or multiple parameters in the url, including search form, redirect component and the difference between redirect component and history.push while routing.
+
+### Day 21: May 27th, 2020
+
+**Today's Progress**: Created a dog description app to practice react router exercise.
+
+**Thoughts:** Implemented various route components such as navlink, route, link, redirect etc. Made the app more responsive with css styles.
