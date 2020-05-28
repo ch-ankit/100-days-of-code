@@ -125,3 +125,9 @@
 **Today's Progress**: Created a dog description app to practice react router exercise.
 
 **Thoughts:** Implemented various route components such as navlink, route, link, redirect etc. Made the app more responsive with css styles.
+
+### Day 22: May 28th, 2020
+
+**Today's Progress**: Continued with the dog details app. Styled it today with bootstrap, yesterday only css was used. It's easy and time saving. Looked at COVID tracker project. And finally started with the massive color app project.
+
+**Thoughts:** Got to know about the new techs I'll be using in this new project such as Material UI, JSS and other react helpers. This is going to be a massive project with 80+ video tutorials. Going to be busy with this for couple of days.
