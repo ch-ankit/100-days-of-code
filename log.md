@@ -131,3 +131,9 @@
 **Today's Progress**: Continued with the dog details app. Styled it today with bootstrap, yesterday only css was used. It's easy and time saving. Looked at COVID tracker project. And finally started with the massive color app project.
 
 **Thoughts:** Got to know about the new techs I'll be using in this new project such as Material UI, JSS and other react helpers. This is going to be a massive project with 80+ video tutorials. Going to be busy with this for couple of days.
+
+### Day 23: May 29th, 2020
+
+**Today's Progress**: No work on React today. Watched some Deno videos and did some practice on C from Hacker Rank and on basic HTML on freecodecamp.
+
+**Thoughts:** Deno seems like an interesting successor to Node.js. It is still in its early phase but carries the potential to be the successor of Node. Looking forward to it.
