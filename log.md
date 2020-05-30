@@ -138,7 +138,7 @@
 
 **Thoughts:** Deno seems like an interesting successor to Node.js. It is still in its early phase but carries the potential to be the successor of Node. Looking forward to it.
 
-### Day 24: May 29th, 2020
+### Day 24: May 30th, 2020
 
 **Today's Progress**: Built some components for the color app. Learned to add repositories to a new git repo.
 
