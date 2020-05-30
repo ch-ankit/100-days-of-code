@@ -137,3 +137,9 @@
 **Today's Progress**: No work on React today. Watched some Deno videos and did some practice on C from Hacker Rank and on basic HTML on freecodecamp.
 
 **Thoughts:** Deno seems like an interesting successor to Node.js. It is still in its early phase but carries the potential to be the successor of Node. Looking forward to it.
+
+### Day 24: May 29th, 2020
+
+**Today's Progress**: Built some components for the color app. Learned to add repositories to a new git repo.
+
+**Thoughts:** Not much thinking today. Just followed the instructions and built the color comonents and the pallete component for the color app project. Going to be a massive project.
