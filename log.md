@@ -143,3 +143,9 @@
 **Today's Progress**: Built some components for the color app. Learned to add repositories to a new git repo.
 
 **Thoughts:** Not much thinking today. Just followed the instructions and built the color comonents and the pallete component for the color app project. Going to be a massive project.
+
+### Day 25: May 31th, 2020
+
+**Today's Progress**: Built the slider component and the navbar component.
+
+**Thoughts:** The slider component changes the shades of the colors in app and is one of the exciting feature of the application.
