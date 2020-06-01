@@ -149,3 +149,9 @@
 **Today's Progress**: Built the slider component and the navbar component.
 
 **Thoughts:** The slider component changes the shades of the colors in app and is one of the exciting feature of the application.
+
+### Day 26: June 1st, 2020
+
+**Today's Progress**: Working on the massive colors app.
+
+**Thoughts:** Many new technologies and work which will help me getting better at frontend works.
