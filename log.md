@@ -161,3 +161,9 @@
 **Today's Progress**: Styling of the color box components and use of copy to clipboard component.
 
 **Thoughts:** Copy to clipboard is a handy component which is available in github and ready to use (react-copy-to-clipboard). There are various properties of styling that I'm still unaware of as of now.
+
+### Day 28: June 3rd, 2020
+
+**Today's Progress**: Slider Component added and shades of colors has also been made responsive to slider.
+
+**Thoughts:** Learnt about different new comopnents like slider component and chroma library to manipulate with colors.
