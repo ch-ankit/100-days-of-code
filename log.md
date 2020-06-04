@@ -167,3 +167,9 @@
 **Today's Progress**: Slider Component added and shades of colors has also been made responsive to slider.
 
 **Thoughts:** Learnt about different new comopnents like slider component and chroma library to manipulate with colors.
+
+### Day 29: June 4th, 2020
+
+**Today's Progress**: Select Component was added and value change from hex, rgb and rgba was added. Snackbar was also added to notify value change.
+
+**Thoughts:** Material UI was used for these components. It is a beautiful tool which contains in-built nicely styled components.
