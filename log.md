@@ -173,3 +173,9 @@
 **Today's Progress**: Select Component was added and value change from hex, rgb and rgba was added. Snackbar was also added to notify value change.
 
 **Thoughts:** Material UI was used for these components. It is a beautiful tool which contains in-built nicely styled components.
+
+### Day 30: June 5th, 2020
+
+**Today's Progress**: Added the Palette List component and footer to the Palette component. Learned about CSS in JS through JSS.
+
+**Thoughts:** The JSS is a easier way to style components of material ui and is easier to use JS in CSS to style and styles can be scoped.
