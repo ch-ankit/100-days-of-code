@@ -179,3 +179,9 @@
 **Today's Progress**: Added the Palette List component and footer to the Palette component. Learned about CSS in JS through JSS.
 
 **Thoughts:** The JSS is a easier way to style components of material ui and is easier to use JS in CSS to style and styles can be scoped.
+
+### Day 31: June 6th, 2020
+
+**Today's Progress**: Styled the Palette list component and added mini palettes inside the palette list, also added the links and routes to the colors. Used JSS for styling.
+
+**Thoughts:** Styling with JSS is fun and it provides scoped classname for our components which is useful.
